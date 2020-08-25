@@ -1,0 +1,15 @@
+body {
+    text-align: justify;
+    background: deeppink;
+    color: lightcyan;
+}
+
+.container1 {
+    padding: 30px;
+}
+
+.headercon {
+    font-family: fantasy;
+    text-align: center;
+    font-size: xx-large;
+}
